@@ -13,6 +13,11 @@ The project investigates the relationship between statistical features extracted
 - Window overlap: 50%
 - Extracted statistical features: 12
 
+**Dataset Availability:**
+- Dataset files are loaded separately during notebook execution.
+- Raw dataset files are not included in this repository.
+- Predictions are experimental and are not intended for medical diagnosis.
+
 ## Technologies Used
 - Python
 - Google Colab
@@ -92,11 +97,14 @@ Classification metrics:
 
 ## Project Structure
 - `PPG_Regression_and_Classification_Project.ipynb` – Main notebook containing signal analysis, feature extraction, model implementation and evaluation.
+- `requirements.txt` – Python dependencies required to run the project.
+- `images/` – Project visualizations and experimental results.
+- `README.md` – Project documentation.
 
 ## Execution
 1. Open the notebook in Google Colab.
 2. Connect or upload the required dataset.
-3. Install the necessary dependencies.
+3. Install dependencies using `requirements.txt`.
 4. Execute the notebook cells sequentially.
 
 
