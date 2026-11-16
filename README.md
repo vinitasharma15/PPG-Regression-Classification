@@ -99,6 +99,24 @@ Classification metrics:
 3. Install the necessary dependencies.
 4. Execute the notebook cells sequentially.
 
+
+## Project Visualizations
+
+### 1. Glucose Level Distribution
+This histogram illustrates the distribution of glucose measurements across the participants.
+
+![Glucose Level Distribution](images/glucose-distribution.png)
+
+### 2. Raw PPG Signal
+Visualization of the complete raw PPG signal recording.
+
+![Raw PPG Signal](images/raw-ppg-signal.png)
+
+### 3. Detailed PPG Signal
+A closer view of the first 2,000 samples of the PPG signal.
+
+![Detailed PPG Signal](images/detailed-ppg-signal.png)
+
 ## Author
 
 **Vinita Sharma**
